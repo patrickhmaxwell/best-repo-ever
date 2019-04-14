@@ -1,2 +1,2 @@
 # best-repo-ever
-Multiple branches rule
+Making multiple branches
